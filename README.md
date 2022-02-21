@@ -49,6 +49,7 @@ Start the server
 ## Tech Stack
 
 **Client:** HTML + Bootstrap 5
+
 **Server:** Laravel 8
 
 
